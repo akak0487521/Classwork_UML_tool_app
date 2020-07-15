@@ -1,0 +1,19 @@
+{
+	"Answers":
+	[
+		{
+		"name":"Class2",
+		"ownedAnswers":[
+		{"name":"Class name:  Class2"},
+		{"name":"Generalization:  Class2  extends  Class1"},
+		{"name":"Attribute:  Class1  Attribute3"},
+		{"name":"Operation:  Operation1"}]},
+		{"name":"Class1",
+		"ownedAnswers":[{"name":"Class name:  Class1"},
+		{"name":"Attribute:  int Attribute1"},
+		{"name":"Attribute:  String Attribute2"},
+		{"name":"Operation:  Operation1"},
+		{"name":"Operation:  Operation2 ( Parameter1)"},
+		{"name":"Operation:  Operation3 ( Parameter1, Parameter2)"}]}
+	]
+}
